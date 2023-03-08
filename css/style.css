@@ -1,0 +1,75 @@
+/*common start*/
+body{
+	margin: 0;
+	font-family: 'Playail Display',serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #626262;
+}
+/*common end*/
+/*header start*/
+header{
+	padding: 40px 0;
+}
+.container{
+	margin: 0 auto;
+	width: 90%;
+	overflow: hidden;
+}
+.logo{
+	width: 13%;
+	float: left;
+	margin-top: 15px;
+}
+.logo a{
+	display: block;
+}
+.logo a img{
+	width: 100%;
+}
+.menu{
+	width: 60%;
+	float: right;
+}
+.menu ul{
+	text-transform: uppercase;
+	float: right;
+}
+.menu  ul li{
+	list-style: none;
+	float: left;
+}
+.menu  ul li a{
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 60px;
+	color:#626262;
+   
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 20px 0;
+}
+.container2{
+	width: 50px 0;
+}
+
+.b_h1{
+	display: block;
+	margin: 30px;
+	 padding: 5px 90px;
+
+}
+.b_p{
+    margin: 30px;
+    padding: 5px 90px;
+}
+.b_img{
+	
+}
+.b_h2{
+
+	padding: 50px 120px;
+}
+/*banner end*/
